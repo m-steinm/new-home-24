@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	
-	<title>Document</title>
-
-	<link rel="stylesheet" href="site.css">
-</head>
-
-<body>
-	<header class="site-header">
-		<nav class="site-menu">
-			<ul>
-				<li>
-					<a href="index.php">home</a>
-				</li>
-				<li>
-					<a href="about.php">about</a>
-				</li>
-				<li>
-					<a href="contact.php">contact</a>
-				</li>
-			</ul>
-		</nav>
-	</header>
+<?php include('header.php'); ?>
 
 	<main class="page-content">
 		
@@ -35,8 +9,4 @@
 		<section>
 			
 		</section>
-
-	</main>
-
-</body>
-</html>
+<?php include('footer.php'); ?>
