@@ -1,10 +1,10 @@
 <?php include('header.php'); ?>
 		
-		<header class="page-header">
-			<inner-column>
-				<h1>About</h1>
-			</inner-column>
-		</header class="page-header">
+
+	<?php 
+		$pageTitle = "About page title";
+		include('page-header.php');
+	?>
 		
 		<section>
 			

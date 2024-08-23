@@ -1,14 +1,17 @@
 <?php include('header.php'); ?>
 		
-		<header class="page-header">
-			<inner-column>
-				<h1>Contact</h1>
-			</inner-column>
-		</header class="page-header">
+
+	<?php 
+		$pageTitle = "contact page title";
+		include('page-header.php');
+	?>
 		
 		<section>
 			<inner-column>
-				
+				<?php 
+					$heading = 'contact options';
+					include('graphic-diptych.php'); 
+				?>
 			</inner-column>
 		</section>
 <?php include('footer.php'); ?>
