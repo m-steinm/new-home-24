@@ -36,3 +36,25 @@ mast-head {
 	display: block;
 	padding: 10px;
 }
+
+graphic-diptych {
+	display: block;
+	display: grid;
+
+	padding: 20px;
+}
+
+graphic-diptych .graphic {
+	background-color: black;
+	aspect-ratio: 3/2;
+}
+graphic-diptych .content {
+	padding: 20px;
+}
+
+@media (min-width: 600px) {
+	graphic-diptych {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+} 
