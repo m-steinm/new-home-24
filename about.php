@@ -1,7 +1,9 @@
 <?php include('header.php'); ?>
 		
 		<header class="page-header">
-			<h1>About</h1>
+			<inner-column>
+				<h1>About</h1>
+			</inner-column>
 		</header class="page-header">
 		
 		<section>

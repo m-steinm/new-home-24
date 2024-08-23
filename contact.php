@@ -1,12 +1,14 @@
 <?php include('header.php'); ?>
-
-	<main class="page-content">
 		
 		<header class="page-header">
-			<h1>Contact</h1>
+			<inner-column>
+				<h1>Contact</h1>
+			</inner-column>
 		</header class="page-header">
 		
 		<section>
-			
+			<inner-column>
+				
+			</inner-column>
 		</section>
 <?php include('footer.php'); ?>
