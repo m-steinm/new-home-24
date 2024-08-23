@@ -2,7 +2,10 @@
 
 </body>
 <footer>
-	<h1>footr..</h1>
+	<inner-column>
+		<h1>footr..</h1>
+	</inner-column>
+
 </footer>
 
 </html>

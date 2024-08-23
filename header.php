@@ -11,19 +11,9 @@
 
 <body>
 	<header class="site-header">
-		<nav class="site-menu">
-			<ul>
-				<li>
-					<a href="index.php">home</a>
-				</li>
-				<li>
-					<a href="about.php">about</a>
-				</li>
-				<li>
-					<a href="contact.php">contact</a>
-				</li>
-			</ul>
-		</nav>
+		<inner-column>
+			<?php include('mast-head.php'); ?>
+		</inner-column>
 	</header>
 
 	<main class="page-content">

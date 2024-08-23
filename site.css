@@ -7,6 +7,22 @@ body {
 	background-color: var(--paper);
 }
 
+inner-column {
+	display: block;
+
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+
+	border: 1px solid red;
+}
+
+mast-head {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
 .site-menu ul {
 	list-style: none;
 
