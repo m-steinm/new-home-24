@@ -3,7 +3,7 @@
 
 	<?php 
 		$pageTitle = "About page title";
-		include('page-header.php');
+		include('templates/modules/page-header/page-header.php');
 	?>
 		
 		<section>

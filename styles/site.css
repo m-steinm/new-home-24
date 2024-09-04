@@ -1,0 +1,76 @@
+/* P reset */
+@import 'preset.css';
+
+/* S etup */
+@import 'setup.css';
+
+/* S setings */
+@import 'settings.css';
+@import 'developer-styles.css';
+
+/* S tructure */
+@import 'structure.css';
+
+/* T ypography */
+@import 'typography.css';
+
+/* C omponents */
+@import 'components.css';
+
+/* S tuff (modules) */
+@import 'modules.css';
+
+/* S ections and more stuff */
+
+/* then other contextual styles */
+body {
+	background-color: var(--paper);
+	color: var(--ink);
+}
+
+.site-menu ul {
+	display: flex;
+	flex-direction: row;
+}
+
+.page-intro {
+	display: block;
+}
+
+
+
+/* SCRATCH */
+
+
+mast-head {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.site-menu ul {
+	list-style: none;
+
+	margin: 0;
+	padding: 0;
+
+	display: flex;
+}
+
+.site-menu a {
+	display: block;
+	padding: 10px;
+}
+
+
+.contact {
+	background-color: var(--ink);
+	color: var(--paper);
+}
+
+.contact .graphic {
+	background-color: var(--paper);
+}
+
+
+} 

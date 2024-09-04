@@ -4,8 +4,7 @@
 	<?php 
 		$pageTitle = "Max Steinmetz";
 		$pageDescription = "Web Design";
-		include('page-header.php');
-	?>
+		include('templates/modules/page-header/page-header.php');	?>
 
 <section>
 

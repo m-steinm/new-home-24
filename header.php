@@ -6,7 +6,7 @@
 	
 	<title>Document</title>
 
-	<link rel="stylesheet" href="site.css">
+	<link rel="stylesheet" href="styles/site.css">
 </head>
 
 <body>

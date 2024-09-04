@@ -3,14 +3,23 @@
 
 	<?php 
 		$pageTitle = "contact page title";
-		include('page-header.php');
+		include('templates/modules/page-header/page-header.php');
 	?>
 		
-		<section>
+		<section class="contact">
 			<inner-column>
 				<?php 
 					$heading = 'contact options';
-					include('graphic-diptych.php'); 
+					include('templates/modules/graphic-diptych/graphic-diptych.php'); 
+				?>
+			</inner-column>
+		</section>
+
+		<section>
+			<inner-column>
+				<?php 
+					$heading = 'Other News';
+					include('templates/modules/graphic-diptych/graphic-diptych.php'); 
 				?>
 			</inner-column>
 		</section>
