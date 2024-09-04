@@ -1,0 +1,10 @@
+
+project-card {
+	display: flex;
+	flex-direction: column;
+	border: 2px solid red;
+}
+
+project-card img {
+	display: block;
+}

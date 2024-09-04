@@ -6,9 +6,9 @@
 		include('templates/modules/page-header/page-header.php');
 	?>
 		
-		<section>
+		<section class="current-projects">
 			<inner-column>
-				<?php include('templates/modules/project-list/project-list.php'); ?>
+				<?php include('templates/modules/project-spotlight/project-spotlight.php'); ?>
 			</inner-column>
 		</section>
 
