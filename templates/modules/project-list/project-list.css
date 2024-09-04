@@ -1,0 +1,10 @@
+
+project-card {
+	display: block;
+	border: 2px solid red;
+}
+
+project-card img {
+	display: block;
+	max-width: 300px;
+}

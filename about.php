@@ -7,7 +7,9 @@
 	?>
 		
 		<section>
-			
+			<inner-column>
+				<?php include('templates/modules/project-list/project-list.php'); ?>
+			</inner-column>
 		</section>
 
 <?php include('footer.php'); ?>
