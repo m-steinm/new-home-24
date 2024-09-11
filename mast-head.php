@@ -13,6 +13,9 @@
 			<li>
 				<a href="contact.php">contact</a>
 			</li>
+			<li>
+				<a href="style-guide.php">Style guide</a>
+			</li>
 		</ul>
 	</nav>
 </mast-head>
