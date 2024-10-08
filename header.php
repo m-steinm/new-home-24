@@ -7,10 +7,15 @@
 	<title>Document</title>
 
 	<link rel="stylesheet" href="styles/site.css">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
 </head>
 
 <body>
-	<header class="site-header">
+	<header class="site-header test">
 		<inner-column>
 			<?php include('mast-head.php'); ?>
 		</inner-column>

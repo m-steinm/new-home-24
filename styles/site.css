@@ -26,6 +26,8 @@
 body {
 	background-color: var(--paper);
 	color: var(--ink);
+
+
 }
 
 .site-menu ul {
@@ -72,5 +74,16 @@ mast-head {
 	background-color: var(--paper);
 }
 
+.test {
+	grid-area: site-header;
+	border: 2px dotted green;
+}
 
+.left {
+	grid-area: left;
+}
+
+.right {
+	grid-area: right;
+}
 } 
