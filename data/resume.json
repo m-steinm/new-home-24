@@ -1,0 +1,44 @@
+{
+	"pageTitle": "Resume",
+	"introduction": "About Me",
+
+	"sections": [
+		{
+			"heading": "Experience",
+			"jobs": [
+				{
+					"timePeriod": "x",
+					"employer": "x",
+					"location": "x",
+					"role": "x",
+					"jobDuty": "x"
+				},
+			],
+			"heading": "Education",
+			"school": [
+				{
+					"institution": "x",
+					"timePeriod": "x",
+					"location": "x",
+					"brief": "x",
+
+				}
+			],
+			"heading": "Awards and Certifications",
+			"body": [
+				{
+					"institution": "x",
+					"timePeriod": "x",
+					"location": "x",
+					"brief": "x",
+
+				}
+			]
+		}
+		
+
+	]
+
+
+
+}
